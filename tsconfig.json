@@ -15,6 +15,13 @@
       "path": "node_modules/device-manager"
     },
     {
+      "path": "node_modules/getting-started"
+    }
+    ,
+    {
+      "path": "node_modules/microwizard"
+    },
+    {
       "path": "theia-extensions/launcher"
     },
     {

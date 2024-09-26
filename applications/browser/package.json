@@ -96,7 +96,9 @@
     "theia-traceviewer": "0.2.4",
     "@eclipse-cdt-cloud/blueprint-examples": "1.49.101",
     "device-manager":"file:../../theia-extensions/device-manager-1.0.0.tgz",
-    "handheldterminal":"file:../../theia-extensions/handheldterminal-1.0.0.tgz"
+    "handheldterminal":"file:../../theia-extensions/handheldterminal-1.0.0.tgz",
+    "getting-started":"file:../../theia-extensions/getting-started.tgz",
+    "microwizard":"file:../../theia-extensions/microwizard.tgz"
   },
   "devDependencies": {
     "@theia/cli": "1.49.1"
