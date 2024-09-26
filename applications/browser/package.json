@@ -60,7 +60,6 @@
     "@theia/external-terminal": "1.49.1",
     "@theia/file-search": "1.49.1",
     "@theia/filesystem": "1.49.1",
-    "@theia/getting-started": "1.49.1",
     "@theia/keymaps": "1.49.1",
     "@theia/markers": "1.49.1",
     "@theia/memory-inspector": "1.49.1",
@@ -98,7 +97,7 @@
     "device-manager":"file:../../theia-extensions/device-manager-1.0.0.tgz",
     "handheldterminal":"file:../../theia-extensions/handheldterminal-1.0.0.tgz",
     "getting-started":"file:../../theia-extensions/getting-started.tgz",
-    "microwizard":"file:../../theia-extensions/microwizard.tgz"
+    "microwizard":"file:../../theia-extensions/microwizard-1.0.0.tgz"
   },
   "devDependencies": {
     "@theia/cli": "1.49.1"
